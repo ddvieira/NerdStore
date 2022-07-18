@@ -1,0 +1,147 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MediatR/10.0.0": {
+        "type": "package",
+        "dependencies": {
+          "MediatR.Contracts": "1.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.1/MediatR.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/MediatR.dll": {}
+        }
+      },
+      "MediatR.Contracts/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.1/MediatR.Contracts.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/MediatR.Contracts.dll": {}
+        }
+      },
+      "NerdStore.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "MediatR": "10.0.0"
+        },
+        "compile": {
+          "bin/placeholder/NerdStore.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NerdStore.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MediatR/10.0.0": {
+      "sha512": "4/oUEQEtDbJ9OIwsHux0sNsU9+/GRWFTrsDNXnt18JyPnZQyIisN7CmrieXbzJeG7oDSoY2SOw8frOz/mB6rrA==",
+      "type": "package",
+      "path": "mediatr/10.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "gradient_128x128.png",
+        "lib/netstandard2.1/MediatR.dll",
+        "lib/netstandard2.1/MediatR.xml",
+        "mediatr.10.0.0.nupkg.sha512",
+        "mediatr.nuspec"
+      ]
+    },
+    "MediatR.Contracts/1.0.0": {
+      "sha512": "9IyK5yfH/ASk97FNs1cigFdAbXPbBCyoophoO0XXvua18EqHfrNWmRfy+ry2n5O0rNAwIVgI4KpDwDXO2M8VYg==",
+      "type": "package",
+      "path": "mediatr.contracts/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "gradient_128x128.png",
+        "lib/netstandard2.1/MediatR.Contracts.dll",
+        "lib/netstandard2.1/MediatR.Contracts.xml",
+        "mediatr.contracts.1.0.0.nupkg.sha512",
+        "mediatr.contracts.nuspec"
+      ]
+    },
+    "NerdStore.Core/1.0.0": {
+      "type": "project",
+      "path": "../NerdStore.Core/NerdStore.Core.csproj",
+      "msbuildProject": "../NerdStore.Core/NerdStore.Core.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "MediatR >= 10.0.0",
+      "NerdStore.Core >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/iamdanieldantas/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/iamdanieldantas/Documents/Projects/NerdStore/source/NerdStore.Catalogo.Domain/NerdStore.Catalogo.Domain.csproj",
+      "projectName": "NerdStore.Catalogo.Domain",
+      "projectPath": "/Users/iamdanieldantas/Documents/Projects/NerdStore/source/NerdStore.Catalogo.Domain/NerdStore.Catalogo.Domain.csproj",
+      "packagesPath": "/Users/iamdanieldantas/.nuget/packages/",
+      "outputPath": "/Users/iamdanieldantas/Documents/Projects/NerdStore/source/NerdStore.Catalogo.Domain/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/iamdanieldantas/.config/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "/Users/iamdanieldantas/Documents/Projects/NerdStore/source/NerdStore.Core/NerdStore.Core.csproj": {
+              "projectPath": "/Users/iamdanieldantas/Documents/Projects/NerdStore/source/NerdStore.Core/NerdStore.Core.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "dependencies": {
+          "MediatR": {
+            "target": "Package",
+            "version": "[10.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.408/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

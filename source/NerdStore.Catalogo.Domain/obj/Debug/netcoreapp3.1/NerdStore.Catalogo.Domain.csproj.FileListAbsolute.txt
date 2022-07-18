@@ -1,0 +1,13 @@
+/Users/iamdanieldantas/Documents/Projects/NerdStore/source/NerdStore.Catalogo.Domain/bin/Debug/netcoreapp3.1/NerdStore.Catalogo.Domain.deps.json
+/Users/iamdanieldantas/Documents/Projects/NerdStore/source/NerdStore.Catalogo.Domain/bin/Debug/netcoreapp3.1/NerdStore.Catalogo.Domain.dll
+/Users/iamdanieldantas/Documents/Projects/NerdStore/source/NerdStore.Catalogo.Domain/bin/Debug/netcoreapp3.1/NerdStore.Catalogo.Domain.pdb
+/Users/iamdanieldantas/Documents/Projects/NerdStore/source/NerdStore.Catalogo.Domain/bin/Debug/netcoreapp3.1/NerdStore.Core.dll
+/Users/iamdanieldantas/Documents/Projects/NerdStore/source/NerdStore.Catalogo.Domain/bin/Debug/netcoreapp3.1/NerdStore.Core.pdb
+/Users/iamdanieldantas/Documents/Projects/NerdStore/source/NerdStore.Catalogo.Domain/obj/Debug/netcoreapp3.1/NerdStore.Catalogo.Domain.csproj.AssemblyReference.cache
+/Users/iamdanieldantas/Documents/Projects/NerdStore/source/NerdStore.Catalogo.Domain/obj/Debug/netcoreapp3.1/NerdStore.Catalogo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iamdanieldantas/Documents/Projects/NerdStore/source/NerdStore.Catalogo.Domain/obj/Debug/netcoreapp3.1/NerdStore.Catalogo.Domain.AssemblyInfoInputs.cache
+/Users/iamdanieldantas/Documents/Projects/NerdStore/source/NerdStore.Catalogo.Domain/obj/Debug/netcoreapp3.1/NerdStore.Catalogo.Domain.AssemblyInfo.cs
+/Users/iamdanieldantas/Documents/Projects/NerdStore/source/NerdStore.Catalogo.Domain/obj/Debug/netcoreapp3.1/NerdStore.Catalogo.Domain.csproj.CoreCompileInputs.cache
+/Users/iamdanieldantas/Documents/Projects/NerdStore/source/NerdStore.Catalogo.Domain/obj/Debug/netcoreapp3.1/NerdStore.Catalogo.Domain.csproj.CopyComplete
+/Users/iamdanieldantas/Documents/Projects/NerdStore/source/NerdStore.Catalogo.Domain/obj/Debug/netcoreapp3.1/NerdStore.Catalogo.Domain.dll
+/Users/iamdanieldantas/Documents/Projects/NerdStore/source/NerdStore.Catalogo.Domain/obj/Debug/netcoreapp3.1/NerdStore.Catalogo.Domain.pdb

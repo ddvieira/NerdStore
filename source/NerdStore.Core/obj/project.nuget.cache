@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "udTDqwY5YN+o2c+Ev9k027jVmJqbHaF+L7Ahymmw4skophpV3iEd1T8lWJ4vsWHHsI/OIes4hT3uWEHkeEhCcA==",
+  "success": true,
+  "projectFilePath": "/Users/iamdanieldantas/Documents/Projects/NerdStore/source/NerdStore.Core/NerdStore.Core.csproj",
+  "expectedPackageFiles": [
+    "/Users/iamdanieldantas/.nuget/packages/mediatr/10.0.0/mediatr.10.0.0.nupkg.sha512",
+    "/Users/iamdanieldantas/.nuget/packages/mediatr.contracts/1.0.0/mediatr.contracts.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

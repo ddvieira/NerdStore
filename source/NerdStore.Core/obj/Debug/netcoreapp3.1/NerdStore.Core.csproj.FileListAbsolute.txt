@@ -1,0 +1,10 @@
+/Users/iamdanieldantas/Documents/Projects/NerdStore/source/NerdStore.Core/bin/Debug/netcoreapp3.1/NerdStore.Core.deps.json
+/Users/iamdanieldantas/Documents/Projects/NerdStore/source/NerdStore.Core/bin/Debug/netcoreapp3.1/NerdStore.Core.dll
+/Users/iamdanieldantas/Documents/Projects/NerdStore/source/NerdStore.Core/bin/Debug/netcoreapp3.1/NerdStore.Core.pdb
+/Users/iamdanieldantas/Documents/Projects/NerdStore/source/NerdStore.Core/obj/Debug/netcoreapp3.1/NerdStore.Core.csproj.AssemblyReference.cache
+/Users/iamdanieldantas/Documents/Projects/NerdStore/source/NerdStore.Core/obj/Debug/netcoreapp3.1/NerdStore.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iamdanieldantas/Documents/Projects/NerdStore/source/NerdStore.Core/obj/Debug/netcoreapp3.1/NerdStore.Core.AssemblyInfoInputs.cache
+/Users/iamdanieldantas/Documents/Projects/NerdStore/source/NerdStore.Core/obj/Debug/netcoreapp3.1/NerdStore.Core.AssemblyInfo.cs
+/Users/iamdanieldantas/Documents/Projects/NerdStore/source/NerdStore.Core/obj/Debug/netcoreapp3.1/NerdStore.Core.csproj.CoreCompileInputs.cache
+/Users/iamdanieldantas/Documents/Projects/NerdStore/source/NerdStore.Core/obj/Debug/netcoreapp3.1/NerdStore.Core.dll
+/Users/iamdanieldantas/Documents/Projects/NerdStore/source/NerdStore.Core/obj/Debug/netcoreapp3.1/NerdStore.Core.pdb

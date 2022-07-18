@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = NerdStore.Catalogo.Domain.Tests
+build_property.ProjectDir = /Users/iamdanieldantas/Documents/Projects/NerdStore/tests/NerdStore.Catalogo.Domain.Tests/

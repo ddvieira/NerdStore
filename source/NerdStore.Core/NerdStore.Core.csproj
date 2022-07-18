@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="DomainObjects\" />
+    <None Remove="Data\" />
+    <None Remove="Messages\" />
+    <None Remove="MediatR" />
+    <None Remove="Bus\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="DomainObjects\" />
+    <Folder Include="Data\" />
+    <Folder Include="Messages\" />
+    <Folder Include="Bus\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="10.0.0" />
+  </ItemGroup>
+</Project>

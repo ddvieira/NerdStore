@@ -1,0 +1,49 @@
+﻿<Properties StartupConfiguration="{F94D82A8-A342-4431-A785-D89ABC328CCB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="source/NerdStore.Catalogo.Domain/Events/ProdutoAbaixoEstoqueEventHandler.cs">
+    <Files>
+      <File FileName="source/NerdStore.Catalogo.Data/Mappings/CategoriaMappings.cs" Line="19" Column="44" />
+      <File FileName="source/NerdStore.Catalogo.Data/Repository/ProductRepository.cs" />
+      <File FileName="source/NerdStore.Catalogo.Domain/EstoqueService.cs" />
+      <File FileName="source/NerdStore.Catalogo.Domain/IEstoqueService.cs" />
+      <File FileName="source/NerdStore.Catalogo.Domain/Events/ProdutoAbaixoEstoqueEvent.cs" />
+      <File FileName="source/NerdStore.Core/DomainObjects/DomainEvent.cs" />
+      <File FileName="source/NerdStore.Core/Messages/Message.cs" />
+      <File FileName="source/NerdStore.Core/Messages/Event.cs" />
+      <File FileName="source/NerdStore.Core/Bus/IMediatrHandler.cs" />
+      <File FileName="source/NerdStore.Catalogo.Domain/Events/ProdutoAbaixoEstoqueEventHandler.cs" Line="22" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NerdStore" expanded="True">
+            <Node name="Services" expanded="True">
+              <Node name="Catalogo" expanded="True">
+                <Node name="NerdStore.Catalogo.Data" expanded="True">
+                  <Node name="Mappings" expanded="True" />
+                  <Node name="Repository" expanded="True" />
+                </Node>
+                <Node name="NerdStore.Catalogo.Domain" expanded="True">
+                  <Node name="Events" expanded="True">
+                    <Node name="ProdutoAbaixoEstoqueEventHandler.cs" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Core" expanded="True">
+                <Node name="NerdStore.Core" expanded="True">
+                  <Node name="Bus" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Services.Catalogo.Tests.NerdStore.Catalogo.Domain.Tests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
