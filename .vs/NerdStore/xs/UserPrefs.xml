@@ -10,28 +10,19 @@
       <File FileName="source/NerdStore.Core/Messages/Message.cs" />
       <File FileName="source/NerdStore.Core/Messages/Event.cs" />
       <File FileName="source/NerdStore.Core/Bus/IMediatrHandler.cs" />
-      <File FileName="source/NerdStore.Catalogo.Domain/Events/ProdutoAbaixoEstoqueEventHandler.cs" Line="22" Column="2" />
+      <File FileName="source/NerdStore.Catalogo.Domain/Events/ProdutoAbaixoEstoqueEventHandler.cs" Line="23" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="NerdStore" expanded="True">
+          <Node name="NerdStore" expanded="True" selected="True">
             <Node name="Services" expanded="True">
               <Node name="Catalogo" expanded="True">
-                <Node name="NerdStore.Catalogo.Data" expanded="True">
-                  <Node name="Mappings" expanded="True" />
-                  <Node name="Repository" expanded="True" />
-                </Node>
-                <Node name="NerdStore.Catalogo.Domain" expanded="True">
-                  <Node name="Events" expanded="True">
-                    <Node name="ProdutoAbaixoEstoqueEventHandler.cs" selected="True" />
-                  </Node>
-                </Node>
+                <Node name="NerdStore.Catalogo.Data" expanded="True" />
+                <Node name="NerdStore.Catalogo.Domain" expanded="True" />
               </Node>
               <Node name="Core" expanded="True">
-                <Node name="NerdStore.Core" expanded="True">
-                  <Node name="Bus" expanded="True" />
-                </Node>
+                <Node name="NerdStore.Core" expanded="True" />
               </Node>
             </Node>
           </Node>
