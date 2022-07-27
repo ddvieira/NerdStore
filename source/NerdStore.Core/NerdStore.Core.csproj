@@ -10,6 +10,7 @@
     <None Remove="Messages\" />
     <None Remove="MediatR" />
     <None Remove="Bus\" />
+    <None Remove="Microsoft.AspNetCore.Identity.UI" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="DomainObjects\" />
@@ -19,5 +20,6 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="MediatR" Version="10.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="6.0.1" />
   </ItemGroup>
 </Project>

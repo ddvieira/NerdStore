@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "UdaR4ocyu8eez0QV2QLMpkEgIsktPz5+Q3RaQH6i5jhXTI4oq5+idDSRn3SwAZwekNRhuQcghiLvMT6kmtUQhQ==",
+  "dgSpecHash": "z6BV+2e/+GtF3zR2FxOXWMp8KhyHjlD9URthPf/i1XZG4qIlEVXGbPAYlv4GAPokABfO+xCe4eBACX1UWVWYeQ==",
   "success": true,
   "projectFilePath": "/Users/iamdanieldantas/Documents/Projects/NerdStore/tests/NerdStore.Catalogo.Domain.Tests/NerdStore.Catalogo.Domain.Tests.csproj",
   "expectedPackageFiles": [
     "/Users/iamdanieldantas/.nuget/packages/coverlet.collector/1.2.0/coverlet.collector.1.2.0.nupkg.sha512",
     "/Users/iamdanieldantas/.nuget/packages/mediatr/10.0.0/mediatr.10.0.0.nupkg.sha512",
     "/Users/iamdanieldantas/.nuget/packages/mediatr.contracts/1.0.0/mediatr.contracts.1.0.0.nupkg.sha512",
+    "/Users/iamdanieldantas/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.1/microsoft.aspnetcore.identity.ui.6.0.1.nupkg.sha512",
     "/Users/iamdanieldantas/.nuget/packages/microsoft.codecoverage/16.5.0/microsoft.codecoverage.16.5.0.nupkg.sha512",
     "/Users/iamdanieldantas/.nuget/packages/microsoft.csharp/4.0.1/microsoft.csharp.4.0.1.nupkg.sha512",
     "/Users/iamdanieldantas/.nuget/packages/microsoft.net.test.sdk/16.5.0/microsoft.net.test.sdk.16.5.0.nupkg.sha512",

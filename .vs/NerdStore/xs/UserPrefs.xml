@@ -1,14 +1,19 @@
 ﻿<Properties StartupConfiguration="{F94D82A8-A342-4431-A785-D89ABC328CCB}|Default">
-  <MonoDevelop.Ide.ItemProperties.Services.Catalogo.NerdStore.Catalogo.Application FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="source/NerdStore.Catalogo.Application/AutoMapper/DtoToDomainMappingProfile.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="source/NerdStore.WebApps.MVC/Controllers/Admin/AdminProdutosController.cs">
     <Files>
+      <File FileName="source/NerdStore.WebApps.MVC/Views/AdminProdutos/Index.cshtml" Line="3" Column="3" IsPinned="True" />
+      <File FileName="source/NerdStore.WebApps.MVC/Program.cs" Line="1" Column="1" IsPinned="True" />
       <File FileName="source/NerdStore.Catalogo.Application/Dtos/ProdutoDto.cs" Line="8" Column="6" />
-      <File FileName="source/NerdStore.Catalogo.Application/Services/IProdutoAppService.cs" Line="20" Column="6" />
-      <File FileName="source/NerdStore.Catalogo.Application/Services/ProdutoAppService.cs" Line="64" Column="48" />
-      <File FileName="source/NerdStore.Catalogo.Domain/IProdutoRepository.cs" Line="8" Column="22" />
-      <File FileName="source/NerdStore.Catalogo.Application/AutoMapper/DomainToDtoMapProfile.cs" Line="9" Column="43" />
-      <File FileName="source/NerdStore.Catalogo.Application/AutoMapper/DtoToDomainMappingProfile.cs" Line="7" Column="53" />
+      <File FileName="source/NerdStore.Catalogo.Application/Services/IProdutoAppService.cs" />
+      <File FileName="source/NerdStore.Catalogo.Application/Services/ProdutoAppService.cs" />
+      <File FileName="source/NerdStore.Catalogo.Domain/IProdutoRepository.cs" />
+      <File FileName="source/NerdStore.Catalogo.Application/AutoMapper/DomainToDtoMapProfile.cs" Line="9" Column="41" />
+      <File FileName="source/NerdStore.Catalogo.Application/AutoMapper/DtoToDomainMappingProfile.cs" Line="9" Column="41" />
       <File FileName="source/NerdStore.Catalogo.Domain/Categoria.cs" Line="10" Column="1" />
+      <File FileName="source/NerdStore.WebApps.MVC/Startup.cs" Line="82" Column="30" />
+      <File FileName="source/NerdStore.WebApps.MVC/Setup/DependencyInjection.cs" Line="14" Column="28" />
+      <File FileName="source/NerdStore.WebApps.MVC/Views/AdminProdutos/AtualizarProduto.cshtml" Line="1" Column="1" />
+      <File FileName="source/NerdStore.WebApps.MVC/Controllers/Admin/AdminProdutosController.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -18,20 +23,28 @@
               <Node name="Catalogo" expanded="True">
                 <Node name="Tests" expanded="True" />
                 <Node name="NerdStore.Catalogo.Application" expanded="True">
-                  <Node name="AutoMapper" expanded="True">
-                    <Node name="DtoToDomainMappingProfile.cs" selected="True" />
-                  </Node>
-                  <Node name="Dtos" expanded="True" />
-                  <Node name="Services" expanded="True" />
+                  <Node name="AutoMapper" expanded="True" />
                 </Node>
                 <Node name="NerdStore.Catalogo.Data" expanded="True">
-                  <Node name="Mappings" expanded="True" />
                   <Node name="Repository" expanded="True" />
                 </Node>
-                <Node name="NerdStore.Catalogo.Domain" expanded="True" />
+                <Node name="NerdStore.Catalogo.Domain" expanded="True">
+                  <Node name="Events" expanded="True" />
+                </Node>
               </Node>
-              <Node name="Core" expanded="True">
-                <Node name="NerdStore.Core" expanded="True" />
+            </Node>
+            <Node name="WebApps" expanded="True">
+              <Node name="NerdStore.WebApps.MVC" expanded="True">
+                <Node name="Controllers" expanded="True">
+                  <Node name="Admin" expanded="True">
+                    <Node name="AdminProdutosController.cs" selected="True" />
+                  </Node>
+                </Node>
+                <Node name="Data" expanded="True" />
+                <Node name="Setup" expanded="True" />
+                <Node name="Views" expanded="True">
+                  <Node name="AdminProdutos" expanded="True" />
+                </Node>
               </Node>
             </Node>
           </Node>

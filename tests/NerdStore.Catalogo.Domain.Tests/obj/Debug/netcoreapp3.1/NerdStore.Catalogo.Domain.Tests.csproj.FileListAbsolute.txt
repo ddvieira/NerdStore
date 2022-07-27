@@ -6,6 +6,8 @@
 /Users/iamdanieldantas/Documents/Projects/NerdStore/tests/NerdStore.Catalogo.Domain.Tests/bin/Debug/netcoreapp3.1/NerdStore.Catalogo.Domain.Tests.runtimeconfig.dev.json
 /Users/iamdanieldantas/Documents/Projects/NerdStore/tests/NerdStore.Catalogo.Domain.Tests/bin/Debug/netcoreapp3.1/NerdStore.Catalogo.Domain.Tests.dll
 /Users/iamdanieldantas/Documents/Projects/NerdStore/tests/NerdStore.Catalogo.Domain.Tests/bin/Debug/netcoreapp3.1/NerdStore.Catalogo.Domain.Tests.pdb
+/Users/iamdanieldantas/Documents/Projects/NerdStore/tests/NerdStore.Catalogo.Domain.Tests/bin/Debug/netcoreapp3.1/MediatR.dll
+/Users/iamdanieldantas/Documents/Projects/NerdStore/tests/NerdStore.Catalogo.Domain.Tests/bin/Debug/netcoreapp3.1/MediatR.Contracts.dll
 /Users/iamdanieldantas/Documents/Projects/NerdStore/tests/NerdStore.Catalogo.Domain.Tests/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.CodeCoverage.Shim.dll
 /Users/iamdanieldantas/Documents/Projects/NerdStore/tests/NerdStore.Catalogo.Domain.Tests/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CoreUtilities.dll
 /Users/iamdanieldantas/Documents/Projects/NerdStore/tests/NerdStore.Catalogo.Domain.Tests/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.PlatformAbstractions.dll

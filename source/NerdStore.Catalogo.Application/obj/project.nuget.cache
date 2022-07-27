@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "8+GwfHi8rHlrsroV+0oFdfWQhyd5gHWDJeC/01/rG75jL/zDzi1HlfQUwqnz8ibQW2VGmlUNIw5XPoCdCkn5SQ==",
+  "dgSpecHash": "YAjxhWbg9bXtTV/EA96aPirA+VieqiLOVht31A3rxRh6vzgSeTvwS5qQ1wiU3qabcGBDZSEJWvDX2Fc+oRE1WQ==",
   "success": true,
   "projectFilePath": "/Users/iamdanieldantas/Documents/Projects/NerdStore/source/NerdStore.Catalogo.Application/NerdStore.Catalogo.Application.csproj",
   "expectedPackageFiles": [
     "/Users/iamdanieldantas/.nuget/packages/automapper/11.0.0/automapper.11.0.0.nupkg.sha512",
     "/Users/iamdanieldantas/.nuget/packages/mediatr/10.0.0/mediatr.10.0.0.nupkg.sha512",
     "/Users/iamdanieldantas/.nuget/packages/mediatr.contracts/1.0.0/mediatr.contracts.1.0.0.nupkg.sha512",
+    "/Users/iamdanieldantas/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.1/microsoft.aspnetcore.identity.ui.6.0.1.nupkg.sha512",
     "/Users/iamdanieldantas/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512"
   ],
   "logs": []

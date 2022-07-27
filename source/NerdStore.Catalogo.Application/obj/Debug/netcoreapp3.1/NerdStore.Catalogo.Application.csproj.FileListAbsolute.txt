@@ -1,0 +1,15 @@
+/Users/iamdanieldantas/Documents/Projects/NerdStore/source/NerdStore.Catalogo.Application/bin/Debug/netcoreapp3.1/NerdStore.Catalogo.Application.deps.json
+/Users/iamdanieldantas/Documents/Projects/NerdStore/source/NerdStore.Catalogo.Application/bin/Debug/netcoreapp3.1/NerdStore.Catalogo.Application.dll
+/Users/iamdanieldantas/Documents/Projects/NerdStore/source/NerdStore.Catalogo.Application/bin/Debug/netcoreapp3.1/NerdStore.Catalogo.Application.pdb
+/Users/iamdanieldantas/Documents/Projects/NerdStore/source/NerdStore.Catalogo.Application/bin/Debug/netcoreapp3.1/NerdStore.Catalogo.Domain.dll
+/Users/iamdanieldantas/Documents/Projects/NerdStore/source/NerdStore.Catalogo.Application/bin/Debug/netcoreapp3.1/NerdStore.Core.dll
+/Users/iamdanieldantas/Documents/Projects/NerdStore/source/NerdStore.Catalogo.Application/bin/Debug/netcoreapp3.1/NerdStore.Catalogo.Domain.pdb
+/Users/iamdanieldantas/Documents/Projects/NerdStore/source/NerdStore.Catalogo.Application/bin/Debug/netcoreapp3.1/NerdStore.Core.pdb
+/Users/iamdanieldantas/Documents/Projects/NerdStore/source/NerdStore.Catalogo.Application/obj/Debug/netcoreapp3.1/NerdStore.Catalogo.Application.csproj.AssemblyReference.cache
+/Users/iamdanieldantas/Documents/Projects/NerdStore/source/NerdStore.Catalogo.Application/obj/Debug/netcoreapp3.1/NerdStore.Catalogo.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iamdanieldantas/Documents/Projects/NerdStore/source/NerdStore.Catalogo.Application/obj/Debug/netcoreapp3.1/NerdStore.Catalogo.Application.AssemblyInfoInputs.cache
+/Users/iamdanieldantas/Documents/Projects/NerdStore/source/NerdStore.Catalogo.Application/obj/Debug/netcoreapp3.1/NerdStore.Catalogo.Application.AssemblyInfo.cs
+/Users/iamdanieldantas/Documents/Projects/NerdStore/source/NerdStore.Catalogo.Application/obj/Debug/netcoreapp3.1/NerdStore.Catalogo.Application.csproj.CoreCompileInputs.cache
+/Users/iamdanieldantas/Documents/Projects/NerdStore/source/NerdStore.Catalogo.Application/obj/Debug/netcoreapp3.1/NerdStore.Catalogo.Application.csproj.CopyComplete
+/Users/iamdanieldantas/Documents/Projects/NerdStore/source/NerdStore.Catalogo.Application/obj/Debug/netcoreapp3.1/NerdStore.Catalogo.Application.dll
+/Users/iamdanieldantas/Documents/Projects/NerdStore/source/NerdStore.Catalogo.Application/obj/Debug/netcoreapp3.1/NerdStore.Catalogo.Application.pdb

@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "QUGe+Bs9lHZnGJjlmV8XChfn2Ev4qRoWyepwao83z67X2pzIavlyp/DD1W5uYkieEpNZwj5J/Tal/wMUnpG4MA==",
+  "dgSpecHash": "wcSTvliFxh/95yc+jWu5peYQphvgg580shPdM7CHTuMAYverDk9kg5MMbTwMV1Mh44ILJZG126hL1DUzRVfX9Q==",
   "success": true,
   "projectFilePath": "/Users/iamdanieldantas/Documents/Projects/NerdStore/source/NerdStore.Catalogo.Data/NerdStore.Catalogo.Data.csproj",
   "expectedPackageFiles": [
     "/Users/iamdanieldantas/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/iamdanieldantas/.nuget/packages/mediatr/10.0.0/mediatr.10.0.0.nupkg.sha512",
     "/Users/iamdanieldantas/.nuget/packages/mediatr.contracts/1.0.0/mediatr.contracts.1.0.0.nupkg.sha512",
+    "/Users/iamdanieldantas/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.1/microsoft.aspnetcore.identity.ui.6.0.1.nupkg.sha512",
     "/Users/iamdanieldantas/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/iamdanieldantas/.nuget/packages/microsoft.data.sqlclient/2.0.1/microsoft.data.sqlclient.2.0.1.nupkg.sha512",
     "/Users/iamdanieldantas/.nuget/packages/microsoft.data.sqlclient.sni.runtime/2.0.1/microsoft.data.sqlclient.sni.runtime.2.0.1.nupkg.sha512",

@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "K188a2jUlwGse2l+xdCGBMBDOSZURjPT3GEk6euBTaKaziQaz75lAv/CjUD6JWx+fOPeSY6fbGorQty4wZgATg==",
+  "dgSpecHash": "TOpIwnGgdNMI3uDa+n2Wo7bTV+XyYIZtCpEKnLCVdDAK5TR56Z4YWtjdl2zbB575YYrzLeI+r+n8ZMnVI24lIw==",
   "success": true,
   "projectFilePath": "/Users/iamdanieldantas/Documents/Projects/NerdStore/source/NerdStore.Catalogo.Domain/NerdStore.Catalogo.Domain.csproj",
   "expectedPackageFiles": [
     "/Users/iamdanieldantas/.nuget/packages/mediatr/10.0.0/mediatr.10.0.0.nupkg.sha512",
-    "/Users/iamdanieldantas/.nuget/packages/mediatr.contracts/1.0.0/mediatr.contracts.1.0.0.nupkg.sha512"
+    "/Users/iamdanieldantas/.nuget/packages/mediatr.contracts/1.0.0/mediatr.contracts.1.0.0.nupkg.sha512",
+    "/Users/iamdanieldantas/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.1/microsoft.aspnetcore.identity.ui.6.0.1.nupkg.sha512"
   ],
   "logs": []
 }

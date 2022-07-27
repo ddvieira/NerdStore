@@ -26,6 +26,25 @@
           }
         }
       },
+      "MediatR/10.0.0": {
+        "dependencies": {
+          "MediatR.Contracts": "1.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.1/MediatR.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.0.0"
+          }
+        }
+      },
+      "MediatR.Contracts/1.0.0": {
+        "runtime": {
+          "lib/netstandard2.1/MediatR.Contracts.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "Microsoft.CSharp/4.7.0": {},
       "Microsoft.Data.SqlClient/2.0.1": {
         "dependencies": {
@@ -1081,6 +1100,7 @@
       },
       "NerdStore.Catalogo.Domain/1.0.0": {
         "dependencies": {
+          "MediatR": "10.0.0",
           "NerdStore.Core": "1.0.0"
         },
         "runtime": {
@@ -1088,6 +1108,9 @@
         }
       },
       "NerdStore.Core/1.0.0": {
+        "dependencies": {
+          "MediatR": "10.0.0"
+        },
         "runtime": {
           "NerdStore.Core.dll": {}
         }
@@ -1106,6 +1129,20 @@
       "sha512": "sha512-OiKusGL20vby4uDEswj2IgkdchC1yQ6rwbIkZDVBPIR6al2b7n3pC91elBul9q33KaBgRKhbZH3+2Ur4fnWx2A==",
       "path": "humanizer.core/2.8.26",
       "hashPath": "humanizer.core.2.8.26.nupkg.sha512"
+    },
+    "MediatR/10.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-4/oUEQEtDbJ9OIwsHux0sNsU9+/GRWFTrsDNXnt18JyPnZQyIisN7CmrieXbzJeG7oDSoY2SOw8frOz/mB6rrA==",
+      "path": "mediatr/10.0.0",
+      "hashPath": "mediatr.10.0.0.nupkg.sha512"
+    },
+    "MediatR.Contracts/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9IyK5yfH/ASk97FNs1cigFdAbXPbBCyoophoO0XXvua18EqHfrNWmRfy+ry2n5O0rNAwIVgI4KpDwDXO2M8VYg==",
+      "path": "mediatr.contracts/1.0.0",
+      "hashPath": "mediatr.contracts.1.0.0.nupkg.sha512"
     },
     "Microsoft.CSharp/4.7.0": {
       "type": "package",

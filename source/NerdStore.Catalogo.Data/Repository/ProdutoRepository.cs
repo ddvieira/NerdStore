@@ -8,11 +8,11 @@ using NerdStore.Core.Data;
 
 namespace NerdStore.Catalogo.Data.Repository
 {
-    public class ProductRepository : IProdutoRepository
+    public class ProdutoRepository : IProdutoRepository
     {
         public CatalogoContext _context;
 
-        public ProductRepository(CatalogoContext context)
+        public ProdutoRepository(CatalogoContext context)
         {
             _context = context;
         }
